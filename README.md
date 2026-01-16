@@ -240,3 +240,5 @@ We are seperate and not affiliated to Windows GSM.
 For issues related to:
 - **WindowsGSM**: Visit [WindowsGSM Documentation](https://docs.windowsgsm.com)
 - **This Application**: Create an issue in the repository
+
+This is my first GitHub readiness exercise.
