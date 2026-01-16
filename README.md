@@ -234,7 +234,7 @@ Simply double-click these files to use them. They will check for Python installa
 ## License
 
 This project is provided as-is for use with WindowsGSM game server management.
-
+We are seperate and not affiliated to Windows GSM. 
 ## Support
 
 For issues related to:
@@ -242,3 +242,4 @@ For issues related to:
 - **This Application**: Create an issue in the repository
 
 Update 1.01
+This is my first GitHub readiness exercise.
