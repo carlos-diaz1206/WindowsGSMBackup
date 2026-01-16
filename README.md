@@ -240,3 +240,5 @@ This project is provided as-is for use with WindowsGSM game server management.
 For issues related to:
 - **WindowsGSM**: Visit [WindowsGSM Documentation](https://docs.windowsgsm.com)
 - **This Application**: Create an issue in the repository
+
+Update 1.01
