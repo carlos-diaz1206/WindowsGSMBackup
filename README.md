@@ -241,4 +241,5 @@ For issues related to:
 - **WindowsGSM**: Visit [WindowsGSM Documentation](https://docs.windowsgsm.com)
 - **This Application**: Create an issue in the repository
 
+Update 1.01
 This is my first GitHub readiness exercise.
